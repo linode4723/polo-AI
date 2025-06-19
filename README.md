@@ -8,8 +8,9 @@
   <em>Where imagination meets intelligence. Experience AI that listens, feels & connects.</em>
 </p>
 <p align="center">
-[![POLO.png](https://i.postimg.cc/k4kDk7Md/POLO.png)](https://postimg.cc/DJP2GkbC)
+  <img src="https://i.postimg.cc/k4kDk7Md/POLO.png" alt="Polo AI Live Preview" width="80%"/>
 </p>
+
 
 <p align="center">
   <a href="https://poloai.plxbd.xyz" target="_blank">
